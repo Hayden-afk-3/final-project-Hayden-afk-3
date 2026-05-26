@@ -6,6 +6,13 @@
       "name": "Program",
       "request": "launch",
       "mainClass": "Program",
+      "projectName": "final-project-Hayden-afk-3_23d9f4ef"
+    },
+    {
+      "type": "java",
+      "name": "Program",
+      "request": "launch",
+      "mainClass": "Program",
       "projectName": "final-project-Hayden-afk-3_f6738b17"
     },
     {
